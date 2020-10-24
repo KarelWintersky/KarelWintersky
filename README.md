@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- 
+### Libraries I Published
+### Documentation I've written
+### Community Management
+### Weird Projects
+### Contributions/Code I'm particularly proud of
+
+
+<details>
+  <summary>More Projects and Interests</summary>
+
+</details>
+
+-->
